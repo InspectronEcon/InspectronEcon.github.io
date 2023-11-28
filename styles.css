@@ -130,5 +130,8 @@
                 margin: 0;
                 padding: 0;
                 overflow-x: hidden; /* Evita la barra de desplazamiento horizontal */
+                padding-right:500px;
+                   padding-left:500px;
+                   
             }
           
